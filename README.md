@@ -7,8 +7,8 @@ Instagram bruteforce exploit module
 ## Installation
 
 ```bash
-chmod +x instainsane.sh
-sudo bash instainsane.sh
+chmod +x install.sh
+sudo bash install.sh
 ```
 
 ## Usage
